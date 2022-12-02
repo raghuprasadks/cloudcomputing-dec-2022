@@ -1,0 +1,17 @@
+Recap:
+Introduction to Cloud Computing
+Server - physical server , web server
+Cloud computing service providers
+AWS,Microsoft Azure,Google Cloud,Alibaba
+Cloud computing models
+Deployment models - public,private,hybrid
+Service models
+Infrastructure As A Service (IAAS)
+Platform As A Service (PAAS)
+Software As A Service (SAAS)
+Web development 
+1.sublime text
+
+download sublime text for windows
+html,css
+

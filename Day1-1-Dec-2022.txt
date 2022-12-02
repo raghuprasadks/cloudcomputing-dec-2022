@@ -1,0 +1,33 @@
+Introduction to cloud computing
+Cloud computing models
+Cloud service providers
+Benefits of cloud computing
+
+Web programming
+
+HTML - Hyper Text Mark Up Language
+CSS - Cascading Style Sheet
+Java Script
+
+
+Sublime text editor
+
+1. Download sublime text
+
+https://www.sublimetext.com/download
+
+umesh\web
+
+create 1-html-gettingstarted.html
+
+
+Web page layout
+
+header
+content
+footer
+
+logo About Us Department Contact Us
+
+https://www.w3schools.com/html/
+

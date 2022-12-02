@@ -30,4 +30,7 @@ CSS
 2. Internal Styling - done
 3. External Styling - 
 
+Sample website templates
+https://www.free-css.com/free-css-templates/page286/consult
+
 

@@ -1,0 +1,10 @@
+body{
+	background-image: url("forest.jfif")
+}
+
+h1{
+	background-color: orange;
+	color:white;
+	font-weight: bold;
+	font-size: 20px;
+}

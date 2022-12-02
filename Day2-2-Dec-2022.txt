@@ -26,8 +26,8 @@ name=raghu&mobile=9845547471&email=prasadraghuks%40gmail.com&sex=on&UG=on&locati
 
 
 CSS
-1. Inline styling
-2. Internal Styling
-3. External Styling
+1. Inline styling - done
+2. Internal Styling - done
+3. External Styling - 
 
 

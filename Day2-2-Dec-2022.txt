@@ -20,5 +20,14 @@ https://github.com/raghuprasadks
 
 file:///E:/kaushalya.tech/consultancy/sindhi/2022-2023/cloudcomputing-dec-2022/programs/web/success.html
 
+file:///E:/kaushalya.tech/consultancy/sindhi/2022-2023/cloudcomputing-dec-2022/programs/web/success.html?
+name=raghu&mobile=9845547471&email=prasadraghuks%40gmail.com&sex=on&UG=on&location=Bengaluru
+
+
+
+CSS
+1. Inline styling
+2. Internal Styling
+3. External Styling
 
 

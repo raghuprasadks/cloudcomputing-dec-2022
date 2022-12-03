@@ -1,0 +1,30 @@
+https://support.atlassian.com/bitbucket-cloud/docs/configure-your-dvcs-username-for-commits/
+
+https://www.codinglabweb.com/2020/12/create-website-in-html-css-only-design.html
+
+Recap
+
+1. HTML,CSS
+
+form 
+input
+
+inline
+<h1 style="color:red">Inline</h1>
+internal
+
+<style>
+h1{
+color:
+}
+</style>
+external
+
+style.css
+
+id
+class
+id and class
+
+
+

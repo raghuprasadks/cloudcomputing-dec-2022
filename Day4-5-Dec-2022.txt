@@ -1,0 +1,86 @@
+Agenda:
+1. Creation of git account and git commands - done
+2. Installation of XAMPP Server - done
+3. Deploying web application - done
+4. Creation of AWS account - done
+aws.amazon.com
+create an aws account
+free tier account
+
+1. Creation of git
+a. download git and install
+
+https://git-scm.com/downloads
+
+b. create account in github.com - done
+
+login and click + button 
+New Repository
+cloudcomputingdemo
+
+click create repository
+
+echo "# cloudcomputingdemo" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/raghuprasadks/cloudcomputingdemo.git
+git push -u origin main
+
+First time
+1. go to cloudcomputingdemo folder
+2. cmd
+3. git init
+4. git add .
+5. git commit -m "first commit"
+6. git branch -M main
+7. git remote add origin https://github.com/raghuprasadks/cloudcomputingdemo.git
+8. git push -u origin main
+
+
+add contact.html
+modify index.html
+
+After every change
+
+git add .
+git commit -m "updated"
+git push -u origin main
+
+Deploy website using github
+
+github.com login
+click on the respository
+setting
+pages
+deploy from a branch
+main
+save
+
+Deployment on XAMPP
+- Apache 
+- Tomcat
+- Mysql
+
+Web Server
+
+download xampp
+
+https://www.apachefriends.org/download.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

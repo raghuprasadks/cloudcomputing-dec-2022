@@ -1,0 +1,15 @@
+AWS 
+Git Commands
+
+1. download git for windows
+2. github.com - register ..
+created repository
+
+local repository --
+git init
+git add .
+git commit -m "first commit"
+
+git status
+
+

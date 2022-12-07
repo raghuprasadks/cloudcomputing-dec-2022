@@ -1,0 +1,46 @@
+Agenda:
+
+1. Create EC2 instance
+
+Login to aws.amazon.com
+search Ec2
+click on instances
+launch instance
+cloudec2demo1
+windows server
+create new key value pair
+cloudec2demo1
+create key pair
+pem file gets downloaded
+click on launch instance
+
+wait till instance is in running state
+select the instance - actions-connect
+
+select RDP client
+download remote desktop file
+
+click getpassword
+
+upload the private key
+select .pem file
+click on decrypt password
+
+M81VBPvSh)k$5&H?tW!1YFcDBkNDOknI
+
+click on rdp - connect
+paste password - remember me
+
+
+
+
+
+
+
+2. Install XAMPP
+3. Deploy static web site on XAMPP
+4. Configure AWS EC2 to host static page
+
+
+
+

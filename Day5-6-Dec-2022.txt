@@ -94,6 +94,22 @@ Step 5 - Under properties tab
 you will have the link to the website
 Bucket website endpoint
 
+EC2 - Elastic Cloud Compute
+
+1. Search EC2
+2. Instance new
+3. Launch Instance
+4. Select Windows Server
+5. Select free tier
+6. Create key value pair
+give name
+file gets downloaded
+
+
+
+
+
+
 
 
 

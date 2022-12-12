@@ -1,0 +1,4 @@
+Revision of AWS:
+Setting EC2 instance.
+
+heroku

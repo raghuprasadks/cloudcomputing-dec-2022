@@ -1,0 +1,55 @@
+Recap :
+Cloud Computing
+Cloud computing models
+
+1. Deployment model
+public,private,hybrid
+2. Service Model
+IAAS - Infrastrure AS A Service
+PAAS - Platform AS A Service
+SAAS - Software AS A Service
+gmail,google drive,CRM,accounting
+ZOHO - CRM,help desk,accounting
+
+3. Cloud providers
+AWS - EC2,S3,cloud database - RDS (Oracle,Mysql,MS SQL- RDBMS)
+No SQL-Dynamo DB,mongo DB - unstructed
+SNS,Analytics
+Azure
+Sales Force - Heroku (Cloud platform)
+Alibaba
+India - Mumbai
+Cloud - Security
+scalability,availablity
+
+webprogramming - html/css/
+git commands  - git init
+uploaded website into git and hosting webapplication
+on the git
+S3 - Simple Storage Service - images/videos,files
+We have deployed static website
+EC2 - Elastic Cloud Compute
+Installed the servers
+Installed xampp on it 
+htdocs folder 
+firewall set up
+Security to allow http/https kind of request
+Database programming 
+- SQL commands
+- My-SQL xampp
+Cloud databases
+
+python - EC2 - deployed the application
+
+linked-in
+git 
+attending hackthons
+Basic of cloud
+certification 
+AWS - basics of cloud
+cloud architech
+
+
+
+
+

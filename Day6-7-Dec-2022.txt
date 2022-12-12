@@ -31,15 +31,17 @@ M81VBPvSh)k$5&H?tW!1YFcDBkNDOknI
 click on rdp - connect
 paste password - remember me
 
-
-
-
-
-
-
 2. Install XAMPP
 3. Deploy static web site on XAMPP
 4. Configure AWS EC2 to host static page
+
+security - inbound
+add http/https
+firewall configuration in remote server
+
+SQL Commands
+
+
 
 
 
